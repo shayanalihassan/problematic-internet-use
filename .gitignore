@@ -1,0 +1,5 @@
+# Ignore specific files
+series_train.parquet/
+
+# Ignore all .parquet files, in case there are more in the future
+*.parquet
